@@ -1,5 +1,6 @@
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
-
+Developed By: NAINA MOHAMED Z
+Reg.No      :21222323031
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
@@ -14,10 +15,6 @@ Step 6: Perform exact inference using the defined evidence and query variables.<
 Step 7: Print the results.<br>
 
 ## Program :
-```
-Developed By: NAINA MOHAMED Z
-Reg.No      :21222323031
-```
 ```
 # Importing Library
 from pgmpy.models import BayesianNetwork
